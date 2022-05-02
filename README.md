@@ -43,6 +43,21 @@ Core Javascript
 		https://www.w3schools.com/howto/howto_js_snackbar.asp
 		
 6. Machine Coding : Design Calender
+7. Difference between http & https
+8. Event Loop - micro and macro tasks
+9. How JS is executed
+10. How webpage is rendered . Steps taken by browsers
+11. CORS
+12. Security Issues : XSS, Cross-Site Request Forgery , Cookies in depth
+13. Basics of Javascript - Number(5) , new Number(5) , 6
+14. Polyfills - Promise.all, flattenArray, Bind, HOF- reduce,filter,map
+15. Accessibility in HTML
+16. Currying
+17. Closures - lexical scoping
+18. JS Engine
+19. Garbage Collector
+20. Memoization in JS
+21. Debounce throttle
 
 
 
